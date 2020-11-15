@@ -10,6 +10,6 @@
 - 경상대학교 컴퓨터과학과 졸업(예정) (2015.03 ~ 2021.02)
 
 ### Language
-- 한국어 중급
-- 영어 초급 (토익스피킹 120점)
-- javascript
+- Korean : ★★★☆☆
+- English : ★☆☆☆☆ (toeic-speaking 120점)
+- Javascript : ★★☆☆☆
