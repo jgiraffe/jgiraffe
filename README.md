@@ -11,5 +11,5 @@
 
 ### Language
 - Korean : ★★★☆☆
-- English : ★☆☆☆☆ (toeic-speaking 120점)
+- English : ★☆☆☆☆ // toeic-speaking 120점
 - Javascript : ★★☆☆☆
