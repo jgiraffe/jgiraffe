@@ -1,4 +1,4 @@
-<h3 align = "center">
+<h3 align = "center" font-size = "100px">
 <a href="https://jgiraffe.github.io/">😎 Resume</a>
 </h3>
 
